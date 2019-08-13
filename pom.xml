@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dubbo-gmall-service-provider</module>
-        <module>dubbo-gmall-service-comsumer</module>
+        <module>dubbo-gmall-service-consumer</module>
         <module>dubbo-gmall-interface</module>
     </modules>
 
@@ -44,7 +44,7 @@
     <dependency>
         <groupId>org.apache.zookeeper</groupId>
         <artifactId>zookeeper</artifactId>
-        <version>3.4.7</version>
+        <version>3.4.14</version>
     </dependency>
 
 </dependencies>
